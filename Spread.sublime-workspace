@@ -1,0 +1,897 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"star",
+				"startTurn"
+			],
+			[
+				"work",
+				"workingPiece"
+			],
+			[
+				"hol",
+				"holdPiece"
+			],
+			[
+				"hold",
+				"holderPiece"
+			],
+			[
+				"working",
+				"workingPiece"
+			],
+			[
+				"ySp",
+				"ySpacingInitial"
+			],
+			[
+				"y",
+				"ySpacingInitial"
+			],
+			[
+				"worki",
+				"workingPieces"
+			],
+			[
+				"lock",
+				"lockDelay"
+			],
+			[
+				"lo",
+				"lockTimer"
+			],
+			[
+				"lok",
+				"lockDelay"
+			],
+			[
+				"on",
+				"onLockTimerTick"
+			],
+			[
+				"can",
+				"canMoveDown"
+			],
+			[
+				"cacla",
+				"calculateRotation"
+			],
+			[
+				"rot",
+				"rotatedColumn"
+			],
+			[
+				"rotat",
+				"rotatedRow"
+			],
+			[
+				"rotated",
+				"rotatedColumn"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"piece",
+				"pieceNew"
+			],
+			[
+				"P",
+				"prototype"
+			],
+			[
+				"Piec",
+				"PieceFactory"
+			],
+			[
+				"gri",
+				"gridCanvas"
+			],
+			[
+				"gridCn",
+				"gridCanvas"
+			],
+			[
+				"grid",
+				"gridContext"
+			],
+			[
+				"get",
+				"gridContext"
+			],
+			[
+				"currentB",
+				"currentBoxBone"
+			],
+			[
+				"current",
+				"currentBranchPointDilated"
+			],
+			[
+				"param",
+				"parameterLog"
+			],
+			[
+				"removed",
+				"removedVertieCount"
+			],
+			[
+				"remo",
+				"removedEdgeCount"
+			],
+			[
+				"remove",
+				"removedSurfaceCount"
+			],
+			[
+				"curr",
+				"currentPointDT"
+			],
+			[
+				"curre",
+				"currentNeighborDT"
+			],
+			[
+				"dat",
+				"dataDistanceTransformFinal"
+			],
+			[
+				"inde",
+				"indexCoor"
+			],
+			[
+				"z_",
+				"z_current"
+			],
+			[
+				"tem",
+				"tempList"
+			],
+			[
+				"cir",
+				"circlePixels"
+			],
+			[
+				"circle",
+				"circlePixels"
+			],
+			[
+				"image",
+				"imageSizeZ"
+			],
+			[
+				"curren",
+				"currentIndex"
+			],
+			[
+				"Tem",
+				"tempListIndex"
+			],
+			[
+				"temp",
+				"tempList"
+			],
+			[
+				"x_",
+				"x_mapSize"
+			],
+			[
+				"iamge",
+				"imageSizeY"
+			],
+			[
+				"circ",
+				"circlePixels"
+			],
+			[
+				"imag",
+				"imageSizeY"
+			],
+			[
+				"que",
+				"queuePointIdx"
+			],
+			[
+				"queue",
+				"listQueue"
+			],
+			[
+				"map",
+				"mapPrimaryPoint"
+			],
+			[
+				"data",
+				"dataDistanceTransform"
+			],
+			[
+				"lis",
+				"listQueue"
+			],
+			[
+				"sum",
+				"sumNeighborCount"
+			],
+			[
+				"Data",
+				"dataImageBone"
+			],
+			[
+				"Vo",
+				"Volume"
+			],
+			[
+				"plate",
+				"plateJunctionIntersectCount"
+			],
+			[
+				"pla",
+				"plate_Z"
+			],
+			[
+				"plat",
+				"plate_Y"
+			],
+			[
+				"currentBo",
+				"currentBoxBoneOriginal"
+			],
+			[
+				"unique",
+				"uniqueBranchCount"
+			],
+			[
+				"uni",
+				"uniqueBranchCount"
+			],
+			[
+				"uniqu",
+				"uniqueBranchCount"
+			],
+			[
+				"un",
+				"uniqueBranchCount"
+			],
+			[
+				"currentBox",
+				"currentBoxCluster"
+			],
+			[
+				"index",
+				"indexUnique"
+			],
+			[
+				"length",
+				"lengthUniqueRodID"
+			],
+			[
+				"original",
+				"originalPlateData"
+			],
+			[
+				"rod",
+				"rodVolume"
+			],
+			[
+				"r",
+				"rodVolume"
+			],
+			[
+				"coorL",
+				"coorListX"
+			],
+			[
+				"coor",
+				"coorListX"
+			],
+			[
+				"coo",
+				"coorListX"
+			],
+			[
+				"max",
+				"maxSumSolidity"
+			],
+			[
+				"box",
+				"boxHalfLength"
+			],
+			[
+				"boxHalf",
+				"boxHalfLengthCopy"
+			],
+			[
+				"min",
+				"minSolidity"
+			],
+			[
+				"Stati",
+				"statisticRodLocal"
+			],
+			[
+				"statis",
+				"statisticRodLocal"
+			],
+			[
+				"currne",
+				"current_Y"
+			],
+			[
+				"len",
+				"lengthUniqueRodID"
+			],
+			[
+				"Re",
+				"re-classify"
+			],
+			[
+				"nei",
+				"neighborRod"
+			],
+			[
+				"currentRod",
+				"currentRodIdxList"
+			],
+			[
+				"neig",
+				"neighborRod"
+			],
+			[
+				"uniq",
+				"uniqueRodID"
+			],
+			[
+				"cu",
+				"current_Z"
+			],
+			[
+				"lengthU",
+				"lengthUniqueRodID"
+			],
+			[
+				"currentRo",
+				"currentRodVolume"
+			],
+			[
+				"currentNei",
+				"currentNeighborVolume"
+			],
+			[
+				"ori",
+				"originalBoneIdx"
+			],
+			[
+				"con",
+				"convertJunctionListIndex"
+			],
+			[
+				"to",
+				"toBeMergedBranchIDList"
+			],
+			[
+				"uniqueJunc",
+				"uniqueJunctionCell"
+			],
+			[
+				"uniqueJun",
+				"uniqueJunctionID"
+			],
+			[
+				"uniqueBran",
+				"uniqueBranchCell"
+			],
+			[
+				"tob",
+				"toBeMergedJunctionIDList"
+			],
+			[
+				"mergin",
+				"mergingJunctionID"
+			],
+			[
+				"larg",
+				"largestVolume"
+			],
+			[
+				"currentJun",
+				"currentNeigborJunctionID"
+			],
+			[
+				"neigh",
+				"neighborJunctionID"
+			],
+			[
+				"uniqueBranc",
+				"uniqueBranchID"
+			],
+			[
+				"uniqueJunct",
+				"uniqueJunctionID"
+			],
+			[
+				"uniqueB",
+				"uniqueBranchID"
+			],
+			[
+				"currentR",
+				"currentRodID"
+			],
+			[
+				"lengt",
+				"lengthUniqueID"
+			],
+			[
+				"currentClu",
+				"currentRodClusterLabeled"
+			],
+			[
+				"chec",
+				"checkBranch"
+			],
+			[
+				"listCurr",
+				"listCurrentShortBranchIdx"
+			],
+			[
+				"list",
+				"listSkeletonPlateIdx"
+			],
+			[
+				"ogi",
+				"originalSkeletonPPData"
+			],
+			[
+				"orig",
+				"originalSkeletonPPData"
+			],
+			[
+				"rat",
+				"ratioPAL"
+			],
+			[
+				"fol",
+				"FolderCount"
+			],
+			[
+				"label",
+				"labeledBoneData"
+			],
+			[
+				"listB",
+				"listBoneFixedIdx"
+			],
+			[
+				"smal",
+				"smallestID"
+			],
+			[
+				"ind",
+				"indexY"
+			],
+			[
+				"file",
+				"fileFull"
+			],
+			[
+				"currentBoxC",
+				"currentBoxClusterLabeled"
+			],
+			[
+				"origi",
+				"originalBoneJunctionData"
+			],
+			[
+				"currentBoneR",
+				"currentBoneRemain"
+			],
+			[
+				"currentBoxB",
+				"currentBoxBoneLabeled"
+			],
+			[
+				"currentBranc",
+				"currentBranchBoneIdx"
+			],
+			[
+				"branch",
+				"branchBoneIdx"
+			],
+			[
+				"currentBran",
+				"currentBranchIdx"
+			],
+			[
+				"currentBoxbo",
+				"currentBoxBoneMap"
+			],
+			[
+				"currentBone",
+				"currentBoxBoneCut"
+			],
+			[
+				"currentId",
+				"currentIdx"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Enable Package"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"package di",
+				"Package Control: Disable Package"
+			],
+			[
+				"packg",
+				"Package Control: Remove Package"
+			],
+			[
+				"ayu",
+				"ayu: Activate theme"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ma",
+				"Material Theme: Activate theme"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pr",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"control in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"syn",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: set",
+				"Package Control: Install Package"
+			],
+			[
+				"UI: Sele",
+				"UI: Select Theme"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/sam/Dropbox/Mini Projects/Learning/js/Timer.js",
+		"/Users/sam/Dropbox/Mini Projects/Learning/js/polyfill.js",
+		"/Users/sam/Dropbox/Mini Projects/Learning/js/Stopwatch.js",
+		"/Users/sam/Dropbox/Mini Projects/Learning/main.js",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/SkeletonizeFuzzy/preprocessImage.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/SkeletonizeFuzzy/skeletonizeFuzzy.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/ClassifyOriginalBone/identifyBoneJunction.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/SkeletonizeFuzzy/identifyShortBranches.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/SkeletonizeFuzzy/Tests/calculateFuzzyDistanceTransform_Tests.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/SkeletonizeFuzzy/calculateLSF.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/ClassifyOriginalBone/segmentateRod.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/helpers/logProcess.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/helpers/saveGrayImage.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/ClassifyOriginalBone/identifyPlateAsJunction.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/CorrectSkeletonGeneral/convertPlateToRod.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/SkeletonizeFuzzy/calculateFuzzyDistanceTransform.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/ClassifyOriginalBone/fixLeftoverBone.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/SkeletonizeFuzzy/calculateCMB.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/ClassifyOriginalBone/fixSegmentedLongRodMerging.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/ClassifyOriginalBone/classifyOriginalBone.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/ClassifyOriginalBone/fixSegmentedShortRodMerging.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/ClassifyOriginalBone/fixSegmentedRodFusing.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Deprecated/mergeBoneJunction.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/ClassifyOriginalBone/fixRodToPlate.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/ClassifyOriginalBone/fixCurveRod.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/CorrectSkeletonGeneral/convertRodToPlate.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/CorrectSkeletonGeneral/correctSkeletonPCA.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/ClassifyOriginalBone/labelOriginalBone.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/SkeletonizeFuzzy/convertPlateToRod.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/SkeletonizeFuzzy/convertRodToPlate.m",
+		"/Users/sam/pytorch-docker-jupyter/pytorch_cpu/Dockerfile",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/AnalyzeOriginalBone/analyzeOriginalBone.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/ClassifyOriginalBone/identifyRodPlateBoundary.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/fixSegmentedLongRodMerging.m",
+		"/Users/sam/.Trash/segmentateRod_Old.m",
+		"/Users/sam/.Trash/mergeBoneJunction.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/classifyOriginalBone.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/skeletonizeFuzzy.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/mergeBoneJunction.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/fixSegmentedShortRodMerging.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/identifyBoneJunction.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/identifyRodRodBoundary.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/segmentateRod.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/correctSkeletonPCA.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/main.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/fixSegmentedRodFusing.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/correctSkeletonGeneral.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/helpers/dilatePoint.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/junction helpers/Branches/cropBoneMask.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/identifySimplePointsUsingLT.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/labelOriginalBone.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/junction helpers/Junctions/countJunction.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/junction helpers/Junctions/CountingJunctionBranch.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/junction helpers/Branches/deleteBranch.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/junction_process.m",
+		"/Users/sam/Library/Application Support/Sublime Text 3/Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/segmentateRod_New.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/classifySkeletonPointSecondary.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/classifySkeletonPointInitial.m",
+		"/Users/sam/Library/Application Support/Sublime Text 3/Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/labelJunctionBone.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Skeletonize/Skeleton3D.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/convertPlateToRod.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/convertRodToPlate.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/identifyShortBranches.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/thinData.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/Tests/finalThinning_Tests.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/identifyErodablePoints.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/identifyThickVoxel.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/identifySimplePoints2DUsingLT.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/generateLookupTable2D.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/generateLookupTableSimplePoint.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/cleanSurfaceQuench.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/cleanCurveQuench.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/Tests/identifySimplePointsUsingLT_Tests.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/Tests/identifySimplePointsUsingLT.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/scanAndMarkPoints.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/classifyPoints.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/Tests/identifySimplePoints_Tests.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/Tests/scanAndMarkPoints_Test.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/generateLookUpTable.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/generateLookupTable2D_1994.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/generateLookupTable2D_Erodable.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/addDataToArray.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/generateExtendedMiddlePlaneLT.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/rotateCubeAlignment.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/rotateXYZ.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/classifyProfileEnd.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/getDataIndex.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/Tests/Fuzzy Skeleton_6/scanAndMarkPoints_Test.matlab",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/classifyProfilePoints.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/calculateCurveQuench.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/Tests/primaryThinning_Tests.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/calculateSurfaceQuench.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/thinningCondition2.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/verifyIdentifiedObject.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/Tests/generateLookupTableSimplePoint_Tests.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/Tests/identifySimplePoints_TestList.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/identifySimplePoints.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/Tests/generateLookupTableSimplePoint_Tests.matlab",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/classifySCExtension.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/thickDataCondition.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/identifyCurveToSurface.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/identifySurfaceToCurve.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/Tests/classifyPoint_Tests.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/classifySSExtension.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/calculateCMB.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/Tests/getTopoParameters_Tests.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/getTopoParameters.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/Tests/calculateCurveQuench_Tests.m",
+		"/Users/sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/Tests/rotateCubeAlignment_Tests.m",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/helpers/saveData.m",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/thinData.m",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/classifySkeletonPointInitial.m",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/generateLookUpTable.m",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/getTopoParameters_Tests.m",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/identifySimplePoints.m",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/classifyProfilePoints.m",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/rotateCubeAlignment.m",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/rotateCubeAlignment_Tests.m",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/junction_final.m",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/junction_pca.m",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/PCA_test.m",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/classifyPoints.m",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/Tests/classifyProfilePoints.m",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/classifySCExtension.m",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/junction helpers/Branches/classifyBranch.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/junction helpers/Branches/RetrievingBranch.m"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 134.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 50.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"ge",
+				"get_endPoint.m"
+			],
+			[
+				"",
+				"junction_check_clean.m"
+			],
+			[
+				"mer",
+				"merge_segments_to_one_point.m"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 281.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
